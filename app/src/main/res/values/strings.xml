@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CoinZ - Crypto Market Watcher</string>
+    <string name="no_more_data">No more</string>
+    <string name="loading">Loading</string>
+
+    <string name="banner_home_footer">ca-app-pub-7908703461740017/3960311061</string>
+    <string name="admob_intertisial_id">ca-app-pub-7908703461740017/8320026776</string>
+    <string name="all">All</string>
+    <string name="top10">Top 10</string>
+    <string name="favorites">Favorites</string>
+    <string name="press_again_exit">Press again exit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
